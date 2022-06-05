@@ -51,11 +51,11 @@ global.botname = '🖤Black Panther Bot🖤'
 
 global.footer = '©Black panther🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
+global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.region = 'Sri lanka, North Central Province, Anuradhapura'
 
-global.sc = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
+global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
