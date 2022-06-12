@@ -4,7 +4,7 @@ World best multi device whatsapp bot🖤
 
 ### Setup
 
-1. Click [SCAN](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+1. Click [SCAN]([https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1#](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1#)) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 
 2. You will get a session id in whatsapp, copy id only.
 
