@@ -18,7 +18,7 @@ World best multi device whatsapp bot🖤
 
 ### Setup 2 
 
-[`Deploy full easy` ( Anti ban )](www.okteto.com)
+[`Deploy full easy` Anti ban ](www.okteto.com)
 
 ### Thanks to everyone
 
