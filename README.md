@@ -16,6 +16,10 @@ World best multi device whatsapp bot🖤
 
    <a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+### Setup 2 
+
+[`Deploy full easy` ( Anti ban )](www.okteto.com)
+
 ### Thanks to everyone
 
 [`My Number`](https://wa.me/+94741671668?text=හා̶̷යි̶̶🙈🌸_ස̶̷්ටේ̶̷ට̶̷ස්🪄බ̶̷ල̶̬න̷̶්න̶_ක̶̷න̶̷්ටැ̶̷ක්🥰සේව්_දාගන්න_INBOX🤭ආවෙ🪄❢❢_)
