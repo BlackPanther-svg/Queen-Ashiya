@@ -16,7 +16,7 @@ World best multi device whatsapp bot🖤
 
    <a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Setup 2 
+### Setup 2 `If you're come deploy erorr`
 4. Click [FORK](https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2/fork)
 
 5. Now [DEPLOY](https://levanter.up.railway.app/dmd)
