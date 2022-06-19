@@ -99,7 +99,7 @@ const nexusnw = require('xfarr-api')
    const isInventoriBuruan = cekDuluHasilBuruanNya(m.sender)
    const isInventoryLimit = cekDuluJoinAdaApaKagaLimitnyaDiJson(m.sender)
    const isInventoryMonay = cekDuluJoinAdaApaKagaMonaynyaDiJson(m.sender)
-   const ikan = ['🐟','🐠','🐡']   
+   const ikan = ['☘','🧚','🖤']   
 
 //rpg database\\
  let _limit = JSON.parse(fs.readFileSync('./storage/user/limit.json'));
@@ -2087,15 +2087,17 @@ break
                 let buttonMessage = {
                     image: { url: anu.thumbnail },
                     caption: `
-🖤 Title : ${anu.title}
-🖤 Ext : Search
-🖤 ID : ${anu.videoId}
-🖤 Duration : ${anu.timestamp}
-🖤 Viewes : ${anu.views}
-🖤 Uploaded On : ${anu.ago}
-🖤 Author : ${anu.author.name}
-🖤 Channel : ${anu.author.url}
-🖤 Description : ${anu.description}
+╔═════ೋೋ═════╗
+   🧚𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗕𝗼𝘁🖤
+🖤 Title : ${anu.title} 🧚
+🖤 Ext : Search 🧚
+🖤 ID : ${anu.videoId} 🧚
+🖤 Duration : ${anu.timestamp} 🧚
+🖤 Viewes : ${anu.views} 🧚
+🖤 Uploaded On : ${anu.ago} 🧚
+🖤 Author : ${anu.author.name} 🧚
+🖤 Channel : ${anu.author.url} 🧚
+🖤 Description : ${anu.description} 🧚
 🖤 Url : ${anu.url}`,
                     footer: GojoMdNx.user.name,
                     buttons: buttons,
@@ -2828,11 +2830,13 @@ case 'webtonsearch': case 'webtoon':
 		    let buttonMessage = {
 		        image: { url: anu.author.profilePic },
 			caption: `
-🖤 Title : ${anu.title}
-🖤 Author : ${anu.author.name}
-🖤 Like : ${anu.like}
-🖤 Caption : ${anu.caption}
-🖤 Url : ${anu.media[0]}
+╔═════ೋೋ═════╗
+ 🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗕𝗼𝘁🧚
+🖤 Title : ${anu.title} 🧚
+🖤 Author : ${anu.author.name} 🧚
+🖤 Like : ${anu.like} 🧚
+🖤 Caption : ${anu.caption} 🧚
+🖤 Url : ${anu.media[0]} 🧚
 To Download Media, Please Click One Of The Buttons Below Or Enter The ytmp3/ytmp4 Command With The Url Above
 `,
 			footer: GojoMdNx.user.name,
@@ -3295,7 +3299,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │◤ Hi 👋 ◢
 └┬❖ ◤ ${pushname} ◢
-┌┤✑  Shashi burina thaicho🎉
+┌┤✑  𝗠𝘂𝗹𝘁𝗶 𝗗𝗲𝘃𝗶𝗰𝗲 𝗕𝗼𝘁🎉
 ││✑  🖤🖐️!!
 │└───────────────┈ ⳹
 │ ◤ BOT INFO ◢
@@ -3309,7 +3313,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │☬ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
    │✑  Please Select The Button Below
-   └───────────────┈ ⳹`,
+   └───────────────┈ ⳹
+ 🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗠𝗗🧚`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube💦',
@@ -3369,7 +3374,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │☬ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
    │✑  Please Select The Button Below
-   └───────────────┈ ⳹`,
+   └───────────────┈ ⳹
+🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗠𝗗🧚`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube💦',
@@ -3763,7 +3769,7 @@ case 'allmenu': {
 ┋⫸${prefix}masasubur (indo)
 ┋⫸${prefix}zodiak (indo)
 ┋⫸${prefix}shio (indo)
-┋╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
+┋╚═══════✍︎🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗠𝗗🧚
 ┗┄◤ *Created By ${ownername}*  𖠌◢┄◈`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
