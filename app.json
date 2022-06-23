@@ -1,43 +1,193 @@
 {
-  "name": "Black Panther MD",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2",
-  "logo": "https://i.ibb.co/yQBM4yx/wp1869937.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "buildpacks": [
-
-    {
-
-      "url": "heroku/nodejs"
-
-    },
-
-    {
-
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-
-    },
-
-    {
-
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-
-    }
-
-  ],
-
-   "formation": {
-
-        "worker": {
-
-            "quantity": 1,
-
-            "size": "free"
-
-        }
-
-    }
-
-}
-
-© 2022 GitHub, Inc.
+    "name": "Devil-Queen",
+    "description": "Devil-Queen is most Powerfull WABot in Whatsapp.",
+    "logo": "https://i.ibb.co/bNbz5zJ/Devil-Queen.jpg",
+    "keywords": ["whatsapp", "userbot", "devilqueen", "bot", "ai" , "MD" , "devil" , "queen" ],
+    "repository": "https://github.com/PrageethPriyamantha/Devil-Queen",
+    "stack": "container",
+     "env": {
+            "DQ_SESSION": {
+            "description": "",
+            "required": true
+             },
+            "OWN_NAME": {
+            "description": "",
+            "value": "Pragiya" ,
+            "required": true
+             },
+             "OWN_NUMBER": {
+            "description": "",
+            "value": "94742412318" ,
+            "required": true
+             },
+       
+            "AUTO_REACT": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+             },
+           
+           "URL_1NAME": {
+            "description": "",
+            "value": "WHATSAPP" ,
+            "required": true
+      },
+           "URL_1LINK": {
+            "description": "",
+            "value": "YOUR GROUP LINK HERE" ,
+            "required": true
+      },
+     "URL_2NAME": {
+            "description": "",
+            "value": "YOUTUBE" ,
+            "required": true
+      },
+       "URL_2LINK": {
+            "description": "",
+            "value": "https://www.youtube.com/channel/UCwdppDdv4TVqG09d5eBSJcw" ,
+            "required": true
+      },
+       "FOOTER": {
+            "description": "",
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 DEVIL-QUEEN ²⁰²²" ,
+            "required": true
+      },
+     "ANTI_LINK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "CAPTION": {
+            "description": "",
+            "value": "𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 DEVIL-QUEEN ²⁰²²" ,
+            "required": true
+      },
+       "INBOX_BLOCK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "INBOX_BLOCK_MSG": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+      "ALIVE_MESSAGE": {
+            "description": "",
+            "value": "default", 
+            "required": true
+      },
+      "ALIVE_LOGO": {
+            "description": "",
+            "value": "https://i.ibb.co/bNbz5zJ/Devil-Queen.jpg" ,
+            "required": true
+      },
+      "DEPLOYER": {
+            "description": "",
+            "value": "DEVIL-QUEEN USER" ,
+            "required": true
+      },
+       "SONG_DOWN": {
+            "description": "",
+            "value": "*Searching your song...*" ,
+            "required": true
+      }, 
+        "SONG_UP": {
+            "description": "",
+            "value": "*Uploading your song...*" ,
+            "required": true
+      },
+          "VIDEO_DOWN": {
+            "description": "",
+            "value": "*Searching your video...*" ,
+            "required": true
+      },
+          "VIDEO_UP": {
+            "description": "",
+            "value": "*Uploading your video...*" ,
+            "required": true
+      },
+          "FILE_DOWN": {
+            "description": "",
+            "value": "*Searching your file...*" ,
+            "required": true
+      },
+          "FILE_UP": {
+            "description": "",
+            "value": "*Uploading your file...*" ,
+            "required": true
+      },
+          "STIC_WM": {
+            "description": "",
+            "value": "Devil-Queen MD" ,
+            "required": true
+      },
+          "WORK_TYPE": {
+            "description": "",
+            "value": "privte" ,
+            "required": true
+      },
+         "SUDO": {
+            "description": "",
+            "value": "" ,
+            "required": false
+      },
+         "LANGUAGE": {
+            "description": "",
+            "value": "SI" ,
+            "required": true
+      },
+         "HEROKU": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+      },
+         "HEROKU_API_KEY": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "HEROKU_APP_NAME": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "BAN_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "ADD_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "PROMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "DEMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "MUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "UNMUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      }
+        
+     },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
