@@ -12,7 +12,8 @@ World best multi device whatsapp bot🖤
 
 4. Click [FORK](https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2/fork)
 
-5. Now [DEPLOY](https://heroku.com/deploy)
+5. Now [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2)
+
 
    <a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
