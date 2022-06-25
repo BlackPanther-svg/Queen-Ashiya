@@ -1,30 +1,24 @@
-# BLACK-PANTHER-MD-V2
-World best multi device whatsapp bot🖤
-### WhatsApp MD user bot
 
-### Setup
+<a href="#"><img title="Black Panther Bot" src="https://i.ibb.co/yQBM4yx/wp1869937.png"></a>
 
-1. Click [SCAN](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1#)) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+</p>
 
-2. You will get a session id in whatsapp, copy id only.
+  <p align="center">
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+</p>
 
-4. Click [FORK](https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2/fork)
+</div>
 
-5. Now [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2)
+<p align="center">
 
+> <a href="https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-   <a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Setup 2 `If you're come deploy erorr`
-4. Click [FORK](https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2/fork)
+# Setup
 
-5. Now [DEPLOY](https://levanter.up.railway.app/dmd)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2)
 
-
-
-### Thanks to everyone
-
-[`My Number`](https://wa.me/+94741671668?text=හා̶̷යි̶̶🙈🌸_ස̶̷්ටේ̶̷ට̶̷ස්🪄බ̶̷ල̶̬න̷̶්න̶_ක̶̷න̶̷්ටැ̶̷ක්🥰සේව්_දාගන්න_INBOX🤭ආවෙ🪄❢❢_)
+[´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
