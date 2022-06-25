@@ -1,13 +1,5 @@
 
-<a href="#"><img title="Black Panther Bot" src="https://i.ibb.co/yQBM4yx/wp1869937.png"></a>
 
-</p>
-
-  <p align="center">
-
-</p>
-
-</div>
 
 <p align="center">
 
