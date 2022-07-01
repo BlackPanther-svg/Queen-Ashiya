@@ -39,13 +39,13 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['𝙼𝚁_𝙹𝙰𝙽𝙸𝚈𝙰 🕊️🍃']
+global.owner = ['94751625945']
 
 global.premium = ['🍃 𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁 𝙼𝙳 🍃']
 
-global.ownernumber = '94751625942'
+global.ownername = '𝙼𝚁_𝙹𝙰𝙽𝙸𝚈𝙰🕊️🍃'
 
-global.ownername = '𝙼𝚁_𝙹𝙰𝙽𝙸𝚈𝙰 🕊️🍃'
+global.ownername = '𝙼𝚁_𝙹𝙰𝙽𝙸𝚈𝙰🕊️🍃'
 
 global.botname = '🍃 𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁 𝙼𝙳 🍃'
 
