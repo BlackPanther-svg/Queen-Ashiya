@@ -262,9 +262,9 @@ const reply = (teks) => {
 					GojoMdNx.sendMessage(m.chat, { sticker: result }, { quoted: m })
 					}
 			}
-			for (let anju of vien){
-				if (budy === anju){
-					result = fs.readFileSync(`./GojoMedia/vn/${Black-Panther-MD}.mp3`)
+			for (let MR-JANIYA of vien){
+				if (budy === MR-JANIYA){
+					result = fs.readFileSync(`./GojoMedia/vn/${MR-JANIYA}.mp3`)
 					GojoMdNx.sendMessage(m.chat, { audio: result, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
 					}
 			}
