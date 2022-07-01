@@ -11,6 +11,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JANIYA/BLACK-PANTHER-MD-V2)
 
 [´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
