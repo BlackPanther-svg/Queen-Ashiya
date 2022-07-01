@@ -55,9 +55,9 @@ global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'http://wa.me/94751625942'
+global.contact = 'http://wa.me/94751625942'
 
-global.myweb = 'https://chat.whatsapp.com/DoOvrTWgj2K6gSpUH4b5Nb'
+global.whatsapp = 'https://chat.whatsapp.com/DoOvrTWgj2K6gSpUH4b5Nb'
 
 global.packname = '🍃 𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁 𝙼𝙳 🍃'
 
