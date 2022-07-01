@@ -1757,22 +1757,22 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '♡Black Panther🖤',
+                                    displayText: '🕊️𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴🕊️',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'YouTube💦',
+                                    displayText: '🍃𝙾𝚄𝚁 𝚂𝙾𝙽𝙶 𝙶𝚁𝙾𝚄𝙿🍃',
                                     url: `${myweb}`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🎀Menu🎀',
+                                    displayText: '🤍 𝙼𝙴𝙽𝚄 🤍',
                                     id: 'menu'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🧚Black Panther Owner🖤',
+                                    displayText: '𝙲𝚁𝙴𝙰𝚃𝙴𝚁 🕊️🍃',
                                     id: 'owner'
                                 }
                             }]
@@ -1791,22 +1791,22 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: '♡Black Panther🖤',
+                                    displayText: '🕊️𝙲𝙾𝙽𝚃𝙰𝙲𝚃🕊️',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'YouTube💦',
+                                    displayText: '🍃𝙾𝚄𝚁 𝚂𝙾𝙽𝙶 𝙶𝚁𝙾𝚄𝙿🍃',
                                     url: `${myweb}`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🎀Menu🎀',
+                                    displayText: '🤍 𝙼𝙴𝙽𝚄 🤍',
                                     id: 'menu'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🧚Black Panther Owner🖤',
+                                    displayText: '𝙲𝚁𝙴𝙰𝚃𝙴𝚁🕊️🍃',
                                     id: 'owner'
                                 }
                             }]
