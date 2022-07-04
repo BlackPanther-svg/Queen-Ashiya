@@ -13,7 +13,7 @@ World best multi device whatsapp bot🖤
 # ´Setup´
 
 ## `1 scan frist👇`
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Qeen-Ashiya-bot)
 
 ## `Now fork`
 
