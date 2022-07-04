@@ -200,11 +200,11 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/HD-wallpaper-little-queen-red-pretty-dress-queen-beautiful-magic-sweet-throne-anime-beauty-anime-girl-long-hair-blue-art-lovely-blonde-hair-swet-cute-girl-purple-crown.jpg`),"sourceUrl": "https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/HD-wallpaper-little-queen-red-pretty-dress-queen-beautiful-magic-sweet-throne-anime-beauty-anime-girl-long-hair-blue-art-lovely-blonde-hair-swet-cute-girl-purple-crown.jpg`),"sourceUrl": "https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -3358,11 +3358,34 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')}, 
                             hydratedFooterText: `
-┌─❖
-│◤ Hi 👋 ◢
-└┬❖ ◤ ${pushname} ◢
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+▎
+▎🧚𝙷𝙸 𝙸 𝙰𝙼 💗Queen Ashiya🧚bot
+
+▎☘Type .menu get command💦
+
+╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎» 
+
+❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡
+94741671668🇱🇰ꫂ⁩⁩⁩
+
+❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ* 
+
+❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs
+
+❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs
+
+❖ ᴀᴅᴍɪɴ ʙᴏᴛ
+
+╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩
+
+Youtube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA
+
+Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎
+
 ┌┤✑  Multi Device Bot
-│└───────────────┈ ⳹
+└───────────────┈ ⳹
 │ ◤ BOT INFO ◢
 │☬ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │☬ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
@@ -3375,7 +3398,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 └┬──────────────┈ ⳹
    │✑  Please Select The Button Below
    └───────────────┈ ⳹
-🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗠𝗗🧚`,
+💗Queen Ashiya🧚`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube💦',
@@ -3411,7 +3434,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 case 'command': {
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `Hi ${pushname}`,
+			
+                    title: `💗Queen Ashiya🧚\nComand Pannel💗`\n`Hi ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.footer}`,
@@ -3534,11 +3558,11 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/yQBM4yx/wp1869937.png' }, caption: `*Hi Bro ${m.pushName}*\nDonation section now open💦,♡ Join► https://chat.whatsapp.com/E64FnOpGLrYK9CR3a24uc1 \n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonation section now open💦,♡ Join► https://chat.whatsapp.com/E64FnOpGLrYK9CR3a24uc1 \n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub : https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget To Watch Tutorial`)
+                reply(`GitHub : https://github.com/BlackPanther-svg/Queen-Ashiya\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget To Watch Tutorial`)
             }
             break
 case 'allmenu': {
@@ -3769,14 +3793,14 @@ case 'allmenu': {
 ┋⫸${prefix}masasubur (indo)
 ┋⫸${prefix}zodiak (indo)
 ┋⫸${prefix}shio (indo)
-┋╚═══════✍︎🖤𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗠𝗗🧚
+┋╚═══════✍︎💗Queen Ashiya🧚
 ┗┄◤ *Created By ${ownername}*  𖠌◢┄◈`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')},
+                            jpegThumbnail: fs.readFileSync('./GojoMedia/HD-wallpaper-little-queen-red-pretty-dress-queen-beautiful-magic-sweet-throne-anime-beauty-anime-girl-long-hair-blue-art-lovely-blonde-hair-swet-cute-girl-purple-crown.jpg')},
                             hydratedFooterText: `${pushname}`,
                             hydratedButtons: [{
                                 urlButton: {
@@ -3785,7 +3809,7 @@ case 'allmenu': {
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🧚Black Panther Owner🖤',
+                                    displayText: '🧚💗Queen Ashiya🧚Owner🖤',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -4175,12 +4199,12 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┋⫸${prefix}zodiak (indo)
 ┋⫸${prefix}shio (indo)
 ┋╚═════════════✪
-┗┄┄◤ ${pushname} ◢┄◈`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "♡Black Panther🖤","url": `${sc}`}},{"quickReplyButton": {"displayText": "🖤Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Black Panther Owner🖤","id": 'owner'}}] )
+┗┄┄◤ ${pushname} ◢┄◈`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "💗Qeen Ashiya🧚","url": `${sc}`}},{"quickReplyButton": {"displayText": "🖤Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Black Panther Owner🖤","id": 'owner'}}] )
 break
 case 'thanksto': case 'tqto': case 'tqtt':
 var unicorn = await getBuffer(picak+'Developer')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
-Thanks to My fiends and my knowledge 💦`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "♡Black Panther🖤","url": `${sc}`}},{"quickReplyButton": {"displayText": "🖤Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Black Panther Owner🖤","id": 'owner'}}] )
+Thanks to My fiends and my knowledge 💦`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "💗Qeen Ashiya🧚","url": `${sc}`}},{"quickReplyButton": {"displayText": "🖤Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Black Panther Owner🖤","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
