@@ -2081,14 +2081,14 @@ break
                 let search = await yts(text)
                 let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
                 let buttons = [
-                    {buttonId: `ytmp3 ${anu.url}`, buttonText: {displayText: '🎶Audio🎶'}, type: 1},
-                    {buttonId: `ytmp4 ${anu.url}`, buttonText: {displayText: '📽️Video📽️'}, type: 1}
+                    {buttonId: `ytmp3 ${anu.url}`, buttonText: {displayText: '◁🎶Audio🎶▷'}, type: 1},
+                    {buttonId: `ytmp4 ${anu.url}`, buttonText: {displayText: '◁📽️Video📽️▷'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: anu.thumbnail },
                     caption: `
 ╔═════ೋೋ═════╗
-   🧚𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 𝗕𝗼𝘁🖤
+   💗Queen Ashiya🧚 𝗕𝗼𝘁🖤
 🖤 Title : ${anu.title} 🧚
 🖤 Ext : Search 🧚
 🖤 ID : ${anu.videoId} 🧚
@@ -3406,7 +3406,7 @@ Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰───────�
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '♡Black Panther🖤',
+                                displayText: '💗Queen Ashiya🧚',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3435,7 +3435,7 @@ Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰───────�
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
 			
-                    title: `💗Queen Ashiya🧚\nComand Pannel💗`\n`Hi ${pushname}`,
+                    title: `Hi ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.footer}`,
