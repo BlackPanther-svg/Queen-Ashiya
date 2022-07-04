@@ -119,7 +119,7 @@ global.mess = {
 
 }
 
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('./GojoMedia/HD-wallpaper-little-queen-red-pretty-dress-queen-beautiful-magic-sweet-throne-anime-beauty-anime-girl-long-hair-blue-art-lovely-blonde-hair-swet-cute-girl-purple-crown.jpg')
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
