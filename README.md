@@ -12,8 +12,14 @@ World best multi device whatsapp bot🖤
 
 # ´Setup´
 
+## `1 scan frist👇`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
 
+## `Now fork`
+
+## `Add you're season file`
+
+## now `Deploy`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Queen-Ashiya)
 
 [´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
