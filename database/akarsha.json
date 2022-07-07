@@ -1,1 +1,7 @@
+GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
 
+            }
+            break
+    case 'akarsha': case 'ashiya': case 'ak queen': case 'ab❤': {
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/WWxF9yP/IMG-20220707-WA0031.jpg' }, caption: `හායි 🖤......\nI am Ashiya ` }, { quoted: m })
+            }
