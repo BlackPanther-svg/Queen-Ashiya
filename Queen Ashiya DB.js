@@ -153,10 +153,7 @@ let imagi = JSON.parse(fs.readFileSync('./database/imagi.json'))
 let videox = JSON.parse(fs.readFileSync('./database/video.json'))
 
 //Akarsha\\
-const dripswelcome = JSON.parse(fs.readFileSync('./'))
-const dripswelcome = JSON.parse(fs.readFileSync('./'))
-const dripswelcome = JSON.parse(fs.readFileSync('./'))
-const dripswelcome = JSON.parse(fs.readFileSync('./'))
+const akarsha = JSON.parse(fs.readFileSync('./database/akarsha.json'))
 
 //read database\\
 let tebaklagu = db.data.game.tebaklagu = []
