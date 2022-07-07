@@ -1772,11 +1772,11 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🧚Black Panther Owner🖤',
+                                    displayText: '🧚💗Queen Ashiya Owner🖤',
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `◤ GOJO-SATORU HERE🎉 ◢\n\n${text}`
+                      let txt = `◤ 💗Queen Ashiya🧚🎉 ◢\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1806,11 +1806,11 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🧚Black Panther Owner🖤',
+                                    displayText: '💗Queen Ashiya Owner🖤',
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `◤ GOJO-SATORU HERE 🎉◢\n\n${text}`
+                      let txt = `◤ 💗Queen Ashiya HERE 🎉◢\n\n${text}`
                       GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
@@ -2089,16 +2089,16 @@ break
                     caption: `
 ╔═════ೋೋ═════╗
    💗Queen Ashiya🧚 𝗕𝗼𝘁🖤
-🖤 Title : ${anu.title} 🧚
-🖤 Ext : Search 🧚
-🖤 ID : ${anu.videoId} 🧚
-🖤 Duration : ${anu.timestamp} 🧚
-🖤 Viewes : ${anu.views} 🧚
-🖤 Uploaded On : ${anu.ago} 🧚
-🖤 Author : ${anu.author.name} 🧚
-🖤 Channel : ${anu.author.url} 🧚
-🖤 Description : ${anu.description} 🧚
-🖤 Url : ${anu.url}`,
+❤ Title : ${anu.title} 🧚
+❤ Ext : Search 🧚
+❤ ID : ${anu.videoId} 🧚
+❤ Duration : ${anu.timestamp} 🧚
+❤ Viewes : ${anu.views} 🧚
+❤ Uploaded On : ${anu.ago} 🧚
+❤ Author : ${anu.author.name} 🧚
+❤ Channel : ${anu.author.url} 🧚
+❤ Description : ${anu.description} 🧚
+❤ Url : ${anu.url}`,
                     footer: GojoMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
