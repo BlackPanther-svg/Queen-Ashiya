@@ -106,54 +106,24 @@ const nexusnw = require('xfarr-api')
  let _buruan = JSON.parse(fs.readFileSync('./storage/user/hasil_buruan.json'));
  let _darahOrg = JSON.parse(fs.readFileSync('./storage/user/darah.json'))
 
- // TIME  
-
- const time2 = moment().tz('Sri Lanka/Colombo').format('HH:mm:ss') 
-o
- if(time2 < "23:59:00"){ 
-
- var ucapannya2 = `Good Night 🌒` 
-
- } 
-
- if(time2 < "19:00:00"){ 
-
- var ucapannya2 = `Good night🌙` 
-
- } 
-
- if(time2 < "18:00:00"){ 
-
- var ucapannya2 = `Good afternoon 🌅` 
-
- } 
-
- if(time2 < "15:00:00"){ 
-
- var ucapannya2 = `Good afternoon 🌞` 
-
- } 
-
- if(time2 < "10:00:00"){ 
-
- var ucapannya2 = `Good morning 🌄` 
-
- } 
-
- if(time2 < "05:00:00"){ 
-
- var ucapannya2 = `Good morning 🌅` 
-
- }
-
-//Database\\
+ //Database\\
 let setik = JSON.parse(fs.readFileSync('./database/setik.json'));
 let vien = JSON.parse(fs.readFileSync('./database/vien.json'));
 let imagi = JSON.parse(fs.readFileSync('./database/imagi.json'))
 let videox = JSON.parse(fs.readFileSync('./database/video.json'))
 
 //Akarsha\\
-const akarsha = JSON.parse(fs.readFileSync('./database/akarsha.json'))
+GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
+
+            }
+
+            break
+
+    case 'akarsha': case 'ashiya': case 'ak queen': case 'ab❤': {
+
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/WWxF9yP/IMG-20220707-WA0031.jpg' }, caption: `හායි 🖤......\nI am Ashiya ` }, { quoted: m })
+
+            }
 
 //read database\\
 let tebaklagu = db.data.game.tebaklagu = []
