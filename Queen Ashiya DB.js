@@ -3498,6 +3498,11 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"rowId": `${prefix}searchmenu`
 									},
 									{
+											"title": "New  Menu",
+										"description": "New Cmd request",
+										"rowId": `${prefix}New cmd`
+										},
+									        {
 											"title": "Random Menu",
 										"description": "Displays The List Of Random Features",
 										"rowId": `${prefix}randommenu`
@@ -4014,6 +4019,23 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ▮◑${prefix}ytsearch [query]
 ▮◑${prefix}ringtone [query]
 ▮◑${prefix}webtoon [query]
+break
+case 'New cmd`':
+var unicorn = await getBuffer(picak+'New cmd request')
+await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+┏▂◤ ${botname} ◢▂▂◁💗▷ 
+▮╔═✪◤ New cmd` ◢	 
+▮◑ Expect it soon😜👌
+▮◑ Waite🤐🤟
+▮╚═════════════✪
+▮▂▂◤ ${pushname} ◢▂◁💗▷`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "♡Queen Ashiya💕","url": `${sc}`}},{"quickReplyButton": {"displayText": "💕Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Queen Ashiya Owner💕","id": 'owner'}}] )
+breakcase 'New cmd`':
+var unicorn = await getBuffer(picak+'New cmd request')
+await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+┏▂◤ ${botname} ◢▂▂◁💗▷ 
+▮╔═✪◤ New cmd` ◢	 
+▮◑ Expect it soon😜👌
+▮◑ Waite🤐🤟
 ▮╚═════════════✪
 ▮▂▂◤ ${pushname} ◢▂◁💗▷`,unicorn, [{"urlButton": {"displayText": "YouTube💦","url": `${myweb}`}},{"urlButton": {"displayText": "♡Queen Ashiya💕","url": `${sc}`}},{"quickReplyButton": {"displayText": "💕Donate🧚","id": 'donate'}},{"quickReplyButton": {"displayText": "🧚Queen Ashiya Owner💕","id": 'owner'}}] )
 break
