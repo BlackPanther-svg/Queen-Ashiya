@@ -8,9 +8,10 @@ World best multi device whatsapp bot🖤
 
 > <a href="https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
+# `Please Join Frist`
 <a href="https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-# ´Setup´
+# `Setup`
 
 ## `1 scan frist👇`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
@@ -25,5 +26,5 @@ World best multi device whatsapp bot🖤
 
 > <a href="https://github.com/BlackPanther-svg/Queen-Ashiya/discussions"><img src="https://user-images.githubusercontent.com/105980099/177285430-7c7c67f1-30b2-43d1-a30c-667682c4e320.png" alt="nz" width="100"/> 
 
-[´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
+# [`𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛`](http://wa.me/94741671668)
 
