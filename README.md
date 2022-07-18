@@ -1,6 +1,13 @@
 # Queen-Ashiya <p align="center">
 
-World best multi device whatsapp bot🖤
+
+# Join and place the highest bid👇
+## cilck this sale icon👇
+> <a href="https://chat.whatsapp.com/GY0Nyy3uGfXJLzbKFvAACy"><img src="https://www.onlygfx.com/wp-content/uploads/2020/05/sale-stamp-2.png" alt="nz" width="100"/>
+
+
+
+## World best multi device whatsapp bot🖤
 
 <img src="https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg" alt="nz" width="350"/>
 
