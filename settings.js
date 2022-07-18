@@ -39,13 +39,13 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['gawesh bawantha']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94767922407'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'gawesh bawantha'
 
 global.botname = '💗Queen Ashiya🧚'
 
