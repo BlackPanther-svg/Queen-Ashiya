@@ -12,37 +12,29 @@
 
    "buildpacks": [ 
 
-     { 
-
-       "url": "heroku/nodejs" 
-
-     }, 
-
-     { 
-
-       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" 
-
-     }, 
-
-     { 
-
-       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" 
-
-     } 
-
-   ], 
-
-    "formation": { 
-
-         "worker": { 
-
-             "quantity": 1, 
-
-             "size": "free" 
-
-         } 
-
-     } 
+     {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
+        },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
 
  }
 
