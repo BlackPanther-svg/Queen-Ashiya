@@ -28,7 +28,7 @@
 ## `Add you're season file`
 
 ## now `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Queen-Ashiya)
 
 
 > <a href="https://github.com/BlackPanther-svg/Queen-Ashiya/discussions"><img src="https://user-images.githubusercontent.com/105980099/177285430-7c7c67f1-30b2-43d1-a30c-667682c4e320.png" alt="nz" width="100"/> 
