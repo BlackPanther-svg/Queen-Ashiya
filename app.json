@@ -1,38 +1,47 @@
-{ 
+{
 
-   "name": "Queen Ashiya MD", 
+  "name": "Queen Ashiya",
 
-   "description": "whatsapp md bot build with nodejs", 
+  "description": "whatsapp md bot build with nodejs",
 
-   "repository": "", 
+  "repository": "https://github.com/BlackPanther-svg/Queen-Ashiya",
 
-   "logo": "https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg", 
+  "logo": "https://i.ibb.co/fNQdj2h/Qeen-Ashiya.jpg",
 
-   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"], 
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
 
-   "buildpacks": [ 
+  "buildpacks": [
 
-     {
+    {
+
       "url": "heroku/nodejs"
+
     },
+
     {
+
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
     },
+
     {
-            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
-        },
-    {
+
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+
     }
+
   ],
+
    "formation": {
+
         "worker": {
+
             "quantity": 1,
+
             "size": "free"
+
         }
+
     }
+
 }
-
-
-
-
