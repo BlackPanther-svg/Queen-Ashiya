@@ -2,7 +2,7 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 TOXIC LEO
 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 
@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Akash Leo']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['✨Toxic Leo👻']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '919497206865'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Akash Leo'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '✨Toxic Leo👻'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©✨Toxic Leo👻.'
 
 global.ig = 'https://github.com/BlackPant'
 
-global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
+global.region = 'India, Kerala, Kannur'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://github.com/TOXIC-DEVIL/Leon'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y='
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '✨Toxic Leo👻'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '✨Toxic Leo👻'
 
 global.sessionName = 'session'
 
@@ -71,7 +71,7 @@ global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉💫',
 
     admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
